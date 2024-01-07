@@ -108,7 +108,9 @@ header {
   display:flex;
   justify-content:right;
 }
-
+.right{
+  justify_content:right;
+}
 .about-me .about-heading {
   color: #25b79f;
   font-size: 2rem;
