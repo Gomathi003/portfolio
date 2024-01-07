@@ -150,7 +150,7 @@ header {
 .about-content .right-content {
   flex-basis: 45%;
   display:flex;
-  justify-content:flex;
+  justify-content:right;
 }
 
 /* ///.....Skill Bar....../// */
