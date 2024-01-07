@@ -147,6 +147,7 @@ header {
 
 .about-content .right-content {
   flex-basis: 45%;
+  display:flex;
 }
 
 /* ///.....Skill Bar....../// */
